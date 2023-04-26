@@ -13,4 +13,4 @@ while True:
     elif znak == "q":
         break
     else :
-        print("Błąd")
+        print("Błąd, wciśnięto niewłaściwy klawisz.")
